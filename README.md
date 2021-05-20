@@ -14,7 +14,7 @@ Simply sign in and<br>
 Create<br> 
 Read <br> 
 Update<br> 
-Delete<br> the post. 
+Delete posts. 
 
 
 Preview
